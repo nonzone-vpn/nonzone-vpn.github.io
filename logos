@@ -1,0 +1,20 @@
+<!DOCTYPE htnl>
+<center>
+<h1>Логотип вариант 1</h1>
+<img src="images/1.svg" style="width: 300px; height: 300px;">
+</center>
+
+<center>
+<h1>Логотип вариант 2</h1>
+<img src="images/2.svg" style="width: 300px; height: 300px;">
+</center>
+
+<center>
+<h1>Логотип вариант 3</h1>
+<img src="images/3.svg" style="width: 300px; height: 300px;">
+</center>
+
+<center>
+<h1>Логотип вариант 4</h1>
+<img src="images/4.svg" style="width: 300px; height: 300px;">
+</center>
